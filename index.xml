@@ -10,14 +10,5 @@
 	<atom:link href="https://kratisto.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title></title>
-      <link>https://kratisto.github.io/post/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kratisto.github.io/post/test/</guid>
-      <description>toto</description>
-    </item>
-    
   </channel>
 </rss>
