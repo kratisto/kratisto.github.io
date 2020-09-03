@@ -1,1 +1,0 @@
-# kratisto.github.io
