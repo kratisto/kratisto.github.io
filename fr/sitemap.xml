@@ -3,75 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kratisto.github.io/</loc>
+    <loc>https://kratisto.github.io/fr/</loc>
     <lastmod>2020-10-07T23:34:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kratisto.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
                 href="https://kratisto.github.io/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kratisto.github.io/fr/"
+                />
   </url>
   
   <url>
-    <loc>https://kratisto.github.io/posts/my-first-post/</loc>
+    <loc>https://kratisto.github.io/fr/posts/my-first-post/</loc>
     <lastmod>2020-10-07T23:34:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kratisto.github.io/en/posts/my-first-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
                 href="https://kratisto.github.io/posts/my-first-post/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kratisto.github.io/fr/posts/my-first-post/"
+                />
   </url>
   
   <url>
-    <loc>https://kratisto.github.io/posts/</loc>
+    <loc>https://kratisto.github.io/fr/posts/</loc>
     <lastmod>2020-10-07T23:34:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kratisto.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
                 href="https://kratisto.github.io/posts/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://kratisto.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kratisto.github.io/en/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
+                href="https://kratisto.github.io/fr/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kratisto.github.io/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://kratisto.github.io/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kratisto.github.io/fr/categories/"
+                />
   </url>
   
   <url>
-    <loc>https://kratisto.github.io/tags/</loc>
+    <loc>https://kratisto.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kratisto.github.io/en/tags/"
+                href="https://kratisto.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kratisto.github.io/tags/"
+                href="https://kratisto.github.io/fr/tags/"
                 />
   </url>
   

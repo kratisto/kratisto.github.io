@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>https://kratisto.github.io/en/posts/</link>
+    <link>https://kratisto.github.io/fr/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Wed, 07 Oct 2020 23:34:30 +0200</lastBuildDate>
     
-	<atom:link href="https://kratisto.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kratisto.github.io/fr/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://kratisto.github.io/en/posts/my-first-post/</link>
+      <title>Mon premier poste</title>
+      <link>https://kratisto.github.io/fr/posts/my-first-post/</link>
       <pubDate>Wed, 07 Oct 2020 23:34:30 +0200</pubDate>
       
-      <guid>https://kratisto.github.io/en/posts/my-first-post/</guid>
-      <description>Test titi
+      <guid>https://kratisto.github.io/fr/posts/my-first-post/</guid>
+      <description>Test toto
   </description>
     </item>
     
