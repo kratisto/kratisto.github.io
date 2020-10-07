@@ -18,32 +18,32 @@
   </url>
   
   <url>
-    <loc>https://kratisto.github.io/posts/my-first-post/</loc>
+    <loc>https://kratisto.github.io/post/my-first-post/</loc>
     <lastmod>2020-10-07T23:34:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kratisto.github.io/en/posts/my-first-post/"
+                href="https://kratisto.github.io/en/post/my-first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kratisto.github.io/posts/my-first-post/"
+                href="https://kratisto.github.io/post/my-first-post/"
                 />
   </url>
   
   <url>
-    <loc>https://kratisto.github.io/posts/</loc>
+    <loc>https://kratisto.github.io/post/</loc>
     <lastmod>2020-10-07T23:34:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kratisto.github.io/en/posts/"
+                href="https://kratisto.github.io/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://kratisto.github.io/posts/"
+                href="https://kratisto.github.io/post/"
                 />
   </url>
   
