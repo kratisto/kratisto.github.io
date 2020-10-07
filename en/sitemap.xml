@@ -20,6 +20,16 @@
   <url>
     <loc>https://kratisto.github.io/en/posts/my-first-post/</loc>
     <lastmod>2020-10-07T23:34:30+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kratisto.github.io/posts/my-first-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kratisto.github.io/en/posts/my-first-post/"
+                />
   </url>
   
   <url>
