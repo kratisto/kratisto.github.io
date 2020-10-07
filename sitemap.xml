@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://kratisto.github.io/</loc>
-    <lastmod>2020-10-07T23:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kratisto.github.io/posts/my-first-post/</loc>
-    <lastmod>2020-10-07T23:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kratisto.github.io/posts/</loc>
-    <lastmod>2020-10-07T23:34:30+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kratisto.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kratisto.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://kratisto.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-10-07T23:34:30+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://kratisto.github.io/fr/sitemap.xml</loc>
+		
+	   	<lastmod>2020-10-07T23:34:30+02:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

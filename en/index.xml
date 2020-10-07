@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://kratisto.github.io/</link>
+    <link>https://kratisto.github.io/en/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Wed, 07 Oct 2020 23:34:30 +0200</lastBuildDate>
     
-	<atom:link href="https://kratisto.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kratisto.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mon premier post</title>
-      <link>https://kratisto.github.io/posts/my-first-post/</link>
+      <title>My First Post</title>
+      <link>https://kratisto.github.io/en/posts/my-first-post/</link>
       <pubDate>Wed, 07 Oct 2020 23:34:30 +0200</pubDate>
       
-      <guid>https://kratisto.github.io/posts/my-first-post/</guid>
+      <guid>https://kratisto.github.io/en/posts/my-first-post/</guid>
       <description>Test toto
   </description>
     </item>
