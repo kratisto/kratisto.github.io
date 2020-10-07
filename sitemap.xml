@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kratisto.github.io/post/une-api-basique-en-go/</loc>
+  </url>
+  
+  <url>
     <loc>https://kratisto.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://kratisto.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kratisto.github.io/post/</loc>
   </url>
   
   <url>

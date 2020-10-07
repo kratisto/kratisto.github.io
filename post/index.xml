@@ -12,11 +12,12 @@
     
     <item>
       <title></title>
-      <link>https://kratisto.github.io/post/test/</link>
+      <link>https://kratisto.github.io/post/une-api-basique-en-go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kratisto.github.io/post/test/</guid>
-      <description>toto</description>
+      <guid>https://kratisto.github.io/post/une-api-basique-en-go/</guid>
+      <description>{{ dateFormat &#34;2006-01-02&#34; .Date }}
+ </description>
     </item>
     
   </channel>
