@@ -1,0 +1,3008 @@
+[
+  {
+    "tvg_id": "ParamountChannelDecale.fr",
+    "name": null,
+    "orange_id": "2072",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "GameOneplus1.fr",
+    "name": null,
+    "orange_id": "1167",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ES1.fr",
+    "name": null,
+    "orange_id": "2353",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "Museum.fr",
+    "name": null,
+    "orange_id": "1072",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "Viceland.fr",
+    "name": null,
+    "orange_id": "2171",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TF1.fr",
+    "name": null,
+    "orange_id": "192",
+    "telerama_id": "192"
+  },
+  {
+    "tvg_id": "France2.fr",
+    "name": null,
+    "orange_id": "4",
+    "telerama_id": "4"
+  },
+  {
+    "tvg_id": "France3.fr",
+    "name": null,
+    "orange_id": "80",
+    "telerama_id": "80"
+  },
+  {
+    "tvg_id": "CanalPlus.fr",
+    "name": null,
+    "orange_id": "34",
+    "telerama_id": "34"
+  },
+  {
+    "tvg_id": "France5.fr",
+    "name": null,
+    "orange_id": "47",
+    "telerama_id": "47"
+  },
+  {
+    "tvg_id": "M6.fr",
+    "name": null,
+    "orange_id": "118",
+    "telerama_id": "118"
+  },
+  {
+    "tvg_id": "Arte.fr",
+    "name": null,
+    "orange_id": "111",
+    "telerama_id": "111"
+  },
+  {
+    "tvg_id": "C8.fr",
+    "name": null,
+    "orange_id": "445",
+    "telerama_id": "445"
+  },
+  {
+    "tvg_id": "W9.fr",
+    "name": null,
+    "orange_id": "119",
+    "telerama_id": "119"
+  },
+  {
+    "tvg_id": "TMC.fr",
+    "name": null,
+    "orange_id": "195",
+    "telerama_id": "195"
+  },
+  {
+    "tvg_id": "NT1.fr",
+    "name": null,
+    "orange_id": "446",
+    "telerama_id": "446"
+  },
+  {
+    "tvg_id": "NRJ12.fr",
+    "name": null,
+    "orange_id": "444",
+    "telerama_id": "444"
+  },
+  {
+    "tvg_id": "LaChaineParlementaire.fr",
+    "name": null,
+    "orange_id": "234",
+    "telerama_id": "234"
+  },
+  {
+    "tvg_id": "France4.fr",
+    "name": null,
+    "orange_id": "78",
+    "telerama_id": "78"
+  },
+  {
+    "tvg_id": "BFMTV.fr",
+    "name": null,
+    "orange_id": "481",
+    "telerama_id": "481"
+  },
+  {
+    "tvg_id": "CNews.fr",
+    "name": null,
+    "orange_id": "226",
+    "telerama_id": "226"
+  },
+  {
+    "tvg_id": "CStar.fr",
+    "name": null,
+    "orange_id": "458",
+    "telerama_id": "458"
+  },
+  {
+    "tvg_id": "Gulli.fr",
+    "name": null,
+    "orange_id": "482",
+    "telerama_id": "482"
+  },
+  {
+    "tvg_id": "FranceO.fr",
+    "name": null,
+    "orange_id": "160",
+    "telerama_id": "160"
+  },
+  {
+    "tvg_id": "TF1SeriesFilms.fr",
+    "name": null,
+    "orange_id": "1404",
+    "telerama_id": "1404"
+  },
+  {
+    "tvg_id": "LEquipe21.fr",
+    "name": null,
+    "orange_id": "1401",
+    "telerama_id": "1401"
+  },
+  {
+    "tvg_id": "6ter.fr",
+    "name": null,
+    "orange_id": "1403",
+    "telerama_id": "1403"
+  },
+  {
+    "tvg_id": "Numero23.fr",
+    "name": null,
+    "orange_id": "1402",
+    "telerama_id": "1402"
+  },
+  {
+    "tvg_id": "RMCDecouverte.fr",
+    "name": null,
+    "orange_id": "1400",
+    "telerama_id": "1400"
+  },
+  {
+    "tvg_id": "Cherie25.fr",
+    "name": null,
+    "orange_id": "1399",
+    "telerama_id": "1399"
+  },
+  {
+    "tvg_id": "LCI.fr",
+    "name": null,
+    "orange_id": "112",
+    "telerama_id": "112"
+  },
+  {
+    "tvg_id": "FranceInfo.fr",
+    "name": null,
+    "orange_id": "2111",
+    "telerama_id": "2111"
+  },
+  {
+    "tvg_id": "TV5Monde.fr",
+    "name": null,
+    "orange_id": "205",
+    "telerama_id": "205"
+  },
+  {
+    "tvg_id": "Teva.fr",
+    "name": null,
+    "orange_id": "191",
+    "telerama_id": "191"
+  },
+  {
+    "tvg_id": "ParisPremiere.fr",
+    "name": null,
+    "orange_id": "145",
+    "telerama_id": "145"
+  },
+  {
+    "tvg_id": "RTL9.fr",
+    "name": null,
+    "orange_id": "115",
+    "telerama_id": "115"
+  },
+  {
+    "tvg_id": "TvBreizh.fr",
+    "name": null,
+    "orange_id": "225",
+    "telerama_id": "225"
+  },
+  {
+    "tvg_id": "beINSPORTS1.fr",
+    "name": null,
+    "orange_id": "1290",
+    "telerama_id": "1290"
+  },
+  {
+    "tvg_id": "beINSPORTS2.fr",
+    "name": null,
+    "orange_id": "1304",
+    "telerama_id": "1304"
+  },
+  {
+    "tvg_id": "beINSPORTS3.fr",
+    "name": null,
+    "orange_id": "1335",
+    "telerama_id": "1335"
+  },
+  {
+    "tvg_id": "OCSMax.fr",
+    "name": null,
+    "orange_id": "730",
+    "telerama_id": "730"
+  },
+  {
+    "tvg_id": "OCSCity.fr",
+    "name": null,
+    "orange_id": "733",
+    "telerama_id": "733"
+  },
+  {
+    "tvg_id": "OCSChoc.fr",
+    "name": null,
+    "orange_id": "732",
+    "telerama_id": "732"
+  },
+  {
+    "tvg_id": "OCSGeants.fr",
+    "name": null,
+    "orange_id": "734",
+    "telerama_id": "734"
+  },
+  {
+    "tvg_id": "TCM.fr",
+    "name": null,
+    "orange_id": "185",
+    "telerama_id": "185"
+  },
+  {
+    "tvg_id": "ParamountChannel.fr",
+    "name": null,
+    "orange_id": "1562",
+    "telerama_id": "1562"
+  },
+  {
+    "tvg_id": "Action.fr",
+    "name": null,
+    "orange_id": "10",
+    "telerama_id": "10"
+  },
+  {
+    "tvg_id": "CINEPlusPREMIER",
+    "name": null,
+    "orange_id": "282",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CINEPlusFRISSON",
+    "name": null,
+    "orange_id": "284",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CINEPlusEMOTION",
+    "name": null,
+    "orange_id": "283",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CINEPlusFAMIZ",
+    "name": null,
+    "orange_id": "401",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CINEPlusCLUB",
+    "name": null,
+    "orange_id": "285",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CINEPlusCLASSIC",
+    "name": null,
+    "orange_id": "287",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "EUROCHANNEL",
+    "name": null,
+    "orange_id": "1190",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BET",
+    "name": null,
+    "orange_id": "1960",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "AB1",
+    "name": null,
+    "orange_id": "5",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MCM",
+    "name": null,
+    "orange_id": "121",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TF1Plus1",
+    "name": null,
+    "orange_id": "2441",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "COMEDYCENTRAL",
+    "name": null,
+    "orange_id": "2752",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "GAMEONE",
+    "name": null,
+    "orange_id": "87",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "COMEDIEPlus",
+    "name": null,
+    "orange_id": "54",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "POLARPlus",
+    "name": null,
+    "orange_id": "2326",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "WARNERTV",
+    "name": null,
+    "orange_id": "2334",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "SERIECLUB",
+    "name": null,
+    "orange_id": "49",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MTV",
+    "name": null,
+    "orange_id": "128",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NonStopPeople.fr",
+    "name": null,
+    "orange_id": "1408",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NOVELASTV",
+    "name": null,
+    "orange_id": "1832",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "DISNEYCHANNEL",
+    "name": null,
+    "orange_id": "58",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "DISNEYCHANNELPlus1",
+    "name": null,
+    "orange_id": "299",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TVPITCHOUN",
+    "name": null,
+    "orange_id": "2803",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BOOMERANG",
+    "name": null,
+    "orange_id": "321",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BOOMERANGPlus1",
+    "name": null,
+    "orange_id": "928",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BOING",
+    "name": null,
+    "orange_id": "924",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TIJI",
+    "name": null,
+    "orange_id": "229",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CANALJ",
+    "name": null,
+    "orange_id": "32",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TOONAMI",
+    "name": null,
+    "orange_id": "2040",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "PIWIPlus",
+    "name": null,
+    "orange_id": "344",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TELETOONPlus",
+    "name": null,
+    "orange_id": "197",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TELETOONPlus1",
+    "name": null,
+    "orange_id": "293",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "DISNEYJUNIOR",
+    "name": null,
+    "orange_id": "300",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NICKELODEONJUNIOR",
+    "name": null,
+    "orange_id": "888",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CARTOONNETWORK",
+    "name": null,
+    "orange_id": "36",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NICKELODEON",
+    "name": null,
+    "orange_id": "473",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NICKELODEONPlus1",
+    "name": null,
+    "orange_id": "2065",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "DISNEYXD",
+    "name": null,
+    "orange_id": "79",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NICKELODEONTEEN",
+    "name": null,
+    "orange_id": "1746",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "AEROSTARTV",
+    "name": null,
+    "orange_id": "90112",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CRIMEDISTRICT",
+    "name": null,
+    "orange_id": "2037",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ANIMAUX",
+    "name": null,
+    "orange_id": "12",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TREK",
+    "name": null,
+    "orange_id": "1776",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TOUTELHISTOIRE",
+    "name": null,
+    "orange_id": "7",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "HISTOIRETV",
+    "name": null,
+    "orange_id": "88",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "USHUAIATV",
+    "name": null,
+    "orange_id": "451",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MYZENTV",
+    "name": null,
+    "orange_id": "829",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "SCIENCE&VIETV",
+    "name": null,
+    "orange_id": "63",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CHASSEPECHE",
+    "name": null,
+    "orange_id": "38",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NATIONALGEOGRAPHIC",
+    "name": null,
+    "orange_id": "508",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NATIONALGEOGRAPHICWILD",
+    "name": null,
+    "orange_id": "719",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "VOYAGE",
+    "name": null,
+    "orange_id": "212",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "PLANETEPlus",
+    "name": null,
+    "orange_id": "147",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "PLANETEPlusCI",
+    "name": null,
+    "orange_id": "662",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "PLANETEPlusAventureExprience",
+    "name": null,
+    "orange_id": "402",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "GINX",
+    "name": null,
+    "orange_id": "563",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "01TV,votrevienumrique",
+    "name": null,
+    "orange_id": "2942",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TMCPlus1",
+    "name": null,
+    "orange_id": "2442",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MANGAS",
+    "name": null,
+    "orange_id": "6",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "JONE",
+    "name": null,
+    "orange_id": "1585",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CLIQUETV",
+    "name": null,
+    "orange_id": "2781",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TRACEURBAN",
+    "name": null,
+    "orange_id": "90150",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NRJHITS",
+    "name": null,
+    "orange_id": "605",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CLUBBINGTV",
+    "name": null,
+    "orange_id": "1989",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "OKLMTV",
+    "name": null,
+    "orange_id": "2153",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "M6MUSIC",
+    "name": null,
+    "orange_id": "453",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "RFMTV",
+    "name": null,
+    "orange_id": "90159",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MELODY",
+    "name": null,
+    "orange_id": "265",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TRACETROPICAL",
+    "name": null,
+    "orange_id": "90161",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TRACELATINA",
+    "name": null,
+    "orange_id": "90162",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MTVHITS",
+    "name": null,
+    "orange_id": "2006",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CSTARHITSFRANCE",
+    "name": null,
+    "orange_id": "90165",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "OLYMPIATV",
+    "name": null,
+    "orange_id": "2958",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MEZZO",
+    "name": null,
+    "orange_id": "125",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MEZZOLIVEHD",
+    "name": null,
+    "orange_id": "907",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "STINGRAYCLASSICA",
+    "name": null,
+    "orange_id": "1353",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "EQUIDIA",
+    "name": null,
+    "orange_id": "64",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "SPORTENFRANCE",
+    "name": null,
+    "orange_id": "2837",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BEINSPORTSMAX4",
+    "name": null,
+    "orange_id": "1336",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BEINSPORTSMAX5",
+    "name": null,
+    "orange_id": "1337",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BEINSPORTSMAX6",
+    "name": null,
+    "orange_id": "1338",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BEINSPORTSMAX7",
+    "name": null,
+    "orange_id": "1339",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BEINSPORTSMAX8",
+    "name": null,
+    "orange_id": "1340",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BEINSPORTSMAX9",
+    "name": null,
+    "orange_id": "1341",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BEINSPORTSMAX10",
+    "name": null,
+    "orange_id": "1342",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "AUTOMOTO,lachaine",
+    "name": null,
+    "orange_id": "15",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "GOLFCHANNEL",
+    "name": null,
+    "orange_id": "1166",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "M6BOUTIQUE",
+    "name": null,
+    "orange_id": "90208",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "LUCKYJACK",
+    "name": null,
+    "orange_id": "1061",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "FASHIONTV",
+    "name": null,
+    "orange_id": "1996",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "LUXETV",
+    "name": null,
+    "orange_id": "531",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MENSUPTV",
+    "name": null,
+    "orange_id": "90216",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "DEMAIN",
+    "name": null,
+    "orange_id": "57",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "KTO",
+    "name": null,
+    "orange_id": "110",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "SOUVENIRSFROMEARTH",
+    "name": null,
+    "orange_id": "90221",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "LCP100%",
+    "name": null,
+    "orange_id": "992",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "PUBLICSENAT24/24",
+    "name": null,
+    "orange_id": "90226",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "FRANCE24Français",
+    "name": null,
+    "orange_id": "529",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BFMBUSINESS",
+    "name": null,
+    "orange_id": "1073",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "EURONEWSFrançais",
+    "name": null,
+    "orange_id": "140",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "LACHAINEMETEO",
+    "name": null,
+    "orange_id": "90230",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "FRANCE24Anglais",
+    "name": null,
+    "orange_id": "671",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "SKYNEWS",
+    "name": null,
+    "orange_id": "90233",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CNNINTERNATIONAL",
+    "name": null,
+    "orange_id": "53",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CNBC",
+    "name": null,
+    "orange_id": "51",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BLOOMBERGEUROPE",
+    "name": null,
+    "orange_id": "410",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BBCWORLDNEWS",
+    "name": null,
+    "orange_id": "19",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ALJAZEERAAnglais",
+    "name": null,
+    "orange_id": "525",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "AFRICA24",
+    "name": null,
+    "orange_id": "90239",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "FRANCE24Arabe",
+    "name": null,
+    "orange_id": "90240",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ALJAZEERAArabe",
+    "name": null,
+    "orange_id": "90241",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MEDI1TV",
+    "name": null,
+    "orange_id": "90242",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "I24NEWS",
+    "name": null,
+    "orange_id": "781",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NHKWORLDJAPAN",
+    "name": null,
+    "orange_id": "830",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TRTWORLD",
+    "name": null,
+    "orange_id": "90246",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3ALPES",
+    "name": null,
+    "orange_id": "655",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3ALSACE",
+    "name": null,
+    "orange_id": "249",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3AQUITAINE",
+    "name": null,
+    "orange_id": "304",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3AUVERGNE",
+    "name": null,
+    "orange_id": "649",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3NORMANDIECAEN",
+    "name": null,
+    "orange_id": "647",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3BOURGOGNE",
+    "name": null,
+    "orange_id": "636",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3BRETAGNE",
+    "name": null,
+    "orange_id": "634",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3CENTRE",
+    "name": null,
+    "orange_id": "306",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3CHAMPAGNEARDENNE",
+    "name": null,
+    "orange_id": "641",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3CORSEVIASTELLA",
+    "name": null,
+    "orange_id": "308",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3COTEDAZUR",
+    "name": null,
+    "orange_id": "642",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3FRANCHECOMTE",
+    "name": null,
+    "orange_id": "637",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3NORMANDIEROUEN",
+    "name": null,
+    "orange_id": "646",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3LANGUEDOC",
+    "name": null,
+    "orange_id": "650",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3LIMOUSIN",
+    "name": null,
+    "orange_id": "638",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3LORRAINE",
+    "name": null,
+    "orange_id": "640",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3MIDIPYRENEES",
+    "name": null,
+    "orange_id": "651",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3NORDP.CALAIS",
+    "name": null,
+    "orange_id": "644",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3PARISIDF",
+    "name": null,
+    "orange_id": "313",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3PAYSDELALOIRE",
+    "name": null,
+    "orange_id": "635",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3PICARDIE",
+    "name": null,
+    "orange_id": "645",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3POITOUCHARENTES",
+    "name": null,
+    "orange_id": "639",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3PROVENCEALPES",
+    "name": null,
+    "orange_id": "643",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "F3RHONEALPES",
+    "name": null,
+    "orange_id": "648",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TAHITINUITELEVISION",
+    "name": null,
+    "orange_id": "90397",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TELEANTILLES",
+    "name": null,
+    "orange_id": "90398",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MFMTV",
+    "name": null,
+    "orange_id": "90399",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "RTPI",
+    "name": null,
+    "orange_id": "169",
+    "telerama_id": "169"
+  },
+  {
+    "tvg_id": "TVIINTERNACIONAL",
+    "name": null,
+    "orange_id": "90447",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "SICNOTICIAS",
+    "name": null,
+    "orange_id": "90448",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "SICINTERNACIONAL",
+    "name": null,
+    "orange_id": "90449",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TVRECORD",
+    "name": null,
+    "orange_id": "90450",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TVIFICCAO",
+    "name": null,
+    "orange_id": "90451",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CANALQ",
+    "name": null,
+    "orange_id": "2046",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ALMALUSA",
+    "name": null,
+    "orange_id": "90453",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ABOLATV",
+    "name": null,
+    "orange_id": "90454",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "RTP3",
+    "name": null,
+    "orange_id": "90455",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CORREIODAMANHATV",
+    "name": null,
+    "orange_id": "90456",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "TRACETOCA",
+    "name": null,
+    "orange_id": "90457",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ALARABYTELEVISION",
+    "name": null,
+    "orange_id": "90503",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ALAOULA",
+    "name": null,
+    "orange_id": "90504",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "CANALALGERIE",
+    "name": null,
+    "orange_id": "90505",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MBC",
+    "name": null,
+    "orange_id": "90507",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ROTANACLASSIC",
+    "name": null,
+    "orange_id": "90508",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ROTANACLIP",
+    "name": null,
+    "orange_id": "90509",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ENNAHARTV",
+    "name": null,
+    "orange_id": "90510",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ECHOROUKTV",
+    "name": null,
+    "orange_id": "90511",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NESSMAEU",
+    "name": null,
+    "orange_id": "90512",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ELHIWARETTOUNSI",
+    "name": null,
+    "orange_id": "90513",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ALRESALAH",
+    "name": null,
+    "orange_id": "90514",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "IQRAA",
+    "name": null,
+    "orange_id": "90515",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "IQRAAINTERNATIONAL",
+    "name": null,
+    "orange_id": "90516",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "SAMIRATV",
+    "name": null,
+    "orange_id": "90517",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "BARAEM",
+    "name": null,
+    "orange_id": "90518",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "JEEMTV",
+    "name": null,
+    "orange_id": "90519",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ECHOROUKNEWS",
+    "name": null,
+    "orange_id": "90520",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "2MMONDE",
+    "name": null,
+    "orange_id": "340",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ROTANAKHALIJIA",
+    "name": null,
+    "orange_id": "90522",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ROTANACINEMA",
+    "name": null,
+    "orange_id": "90523",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ROTANAAFLAM",
+    "name": null,
+    "orange_id": "90524",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ROTANADRAMA",
+    "name": null,
+    "orange_id": "90525",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ELDJAZAIRIAONE",
+    "name": null,
+    "orange_id": "90526",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "ELBILAD",
+    "name": null,
+    "orange_id": "90527",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "PANORAMADRAMA",
+    "name": null,
+    "orange_id": "90528",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MBCDRAMA",
+    "name": null,
+    "orange_id": "90529",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MBCMASR",
+    "name": null,
+    "orange_id": "90530",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "MBC3",
+    "name": null,
+    "orange_id": "90531",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "PANORAMAFILM",
+    "name": null,
+    "orange_id": "90532",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "NTDTV",
+    "name": null,
+    "orange_id": "90548",
+    "telerama_id": null
+  },
+  {
+    "tvg_id": "WarnerTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2334"
+  },
+  {
+    "tvg_id": "PolarPlus.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2326"
+  },
+  {
+    "tvg_id": "13eRue.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2"
+  },
+  {
+    "tvg_id": "2MMonde.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "340"
+  },
+  {
+    "tvg_id": "8MontBlanc.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "421"
+  },
+  {
+    "tvg_id": "APlusInternationalFrance",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2049"
+  },
+  {
+    "tvg_id": "AB1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "5"
+  },
+  {
+    "tvg_id": "AB3.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "254"
+  },
+  {
+    "tvg_id": "ABXploreFR.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "303"
+  },
+  {
+    "tvg_id": "ABMoteurs.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "15"
+  },
+  {
+    "tvg_id": "Alsace20.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "524"
+  },
+  {
+    "tvg_id": "AlticeStudio.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2320"
+  },
+  {
+    "tvg_id": "Animaux.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "12"
+  },
+  {
+    "tvg_id": "ATVMartinique",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "295"
+  },
+  {
+    "tvg_id": "Be1.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "29"
+  },
+  {
+    "tvg_id": "BeCine.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "417"
+  },
+  {
+    "tvg_id": "BeSeries.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "418"
+  },
+  {
+    "tvg_id": "beINSPORTSMAX10.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1342"
+  },
+  {
+    "tvg_id": "beINSPORTSMAX4.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1336"
+  },
+  {
+    "tvg_id": "beINSPORTSMAX5.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1337"
+  },
+  {
+    "tvg_id": "beINSPORTSMAX6.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1338"
+  },
+  {
+    "tvg_id": "beINSPORTSMAX7.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1339"
+  },
+  {
+    "tvg_id": "beINSPORTSMAX8.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1340"
+  },
+  {
+    "tvg_id": "beINSPORTSMAX9.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1341"
+  },
+  {
+    "tvg_id": "BET.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1960"
+  },
+  {
+    "tvg_id": "BFMBusiness.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1073"
+  },
+  {
+    "tvg_id": "Boing.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "924"
+  },
+  {
+    "tvg_id": "Boomerang.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "321"
+  },
+  {
+    "tvg_id": "BrazzersTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "475"
+  },
+  {
+    "tvg_id": "CanalPlusAfriqueOuest.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "227"
+  },
+  {
+    "tvg_id": "CanalPlusCinema.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "33"
+  },
+  {
+    "tvg_id": "CanalPlusCinemaDROM.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1105"
+  },
+  {
+    "tvg_id": "CanalPlusDecale.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "30"
+  },
+  {
+    "tvg_id": "CanalPlusFamily.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "657"
+  },
+  {
+    "tvg_id": "CanalJ.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "32"
+  },
+  {
+    "tvg_id": "CanalpartageTNTIDF.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "703"
+  },
+  {
+    "tvg_id": "CanalPlusPolynesie.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "461"
+  },
+  {
+    "tvg_id": "CanalPlusSeries.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1563"
+  },
+  {
+    "tvg_id": "CanalPlusSport.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "35"
+  },
+  {
+    "tvg_id": "Canvas",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "24"
+  },
+  {
+    "tvg_id": "CartoonNetwork.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "36"
+  },
+  {
+    "tvg_id": "ChasseEtPeche.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "38"
+  },
+  {
+    "tvg_id": "CinePlusClassic.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "287"
+  },
+  {
+    "tvg_id": "CinePlusClassic.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "437"
+  },
+  {
+    "tvg_id": "CinePlusEmotion.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "283"
+  },
+  {
+    "tvg_id": "CinePlusFamiz.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "401"
+  },
+  {
+    "tvg_id": "CinePlusFrisson.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "284"
+  },
+  {
+    "tvg_id": "CineFX.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "288"
+  },
+  {
+    "tvg_id": "CinePlusPremier.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "282"
+  },
+  {
+    "tvg_id": "CinePlusPremier.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "294"
+  },
+  {
+    "tvg_id": "CinePlusStarAfrique.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "279"
+  },
+  {
+    "tvg_id": "ClassicaEnglish",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1353"
+  },
+  {
+    "tvg_id": "ClubRTL.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "50"
+  },
+  {
+    "tvg_id": "ComediePlus.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "54"
+  },
+  {
+    "tvg_id": "CrimeDistrict.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2037"
+  },
+  {
+    "tvg_id": "DemainTV",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "57"
+  },
+  {
+    "tvg_id": "DiscoveryChannel.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "400"
+  },
+  {
+    "tvg_id": "DiscoveryScience.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1374"
+  },
+  {
+    "tvg_id": "DisneyChannel.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "58"
+  },
+  {
+    "tvg_id": "DisneyChannelPlus1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "299"
+  },
+  {
+    "tvg_id": "DisneyCinema.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "652"
+  },
+  {
+    "tvg_id": "DisneyJunior.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "300"
+  },
+  {
+    "tvg_id": "DisneyXD.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "79"
+  },
+  {
+    "tvg_id": "DorcelTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "560"
+  },
+  {
+    "tvg_id": "EEntertainement.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "405"
+  },
+  {
+    "tvg_id": "een",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "23"
+  },
+  {
+    "tvg_id": "ElleGirl.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "403"
+  },
+  {
+    "tvg_id": "EquidiaLife.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1146"
+  },
+  {
+    "tvg_id": "Equidia.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "64"
+  },
+  {
+    "tvg_id": "Eurochannel.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1190"
+  },
+  {
+    "tvg_id": "Euronews.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "140"
+  },
+  {
+    "tvg_id": "Eurosport1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "76"
+  },
+  {
+    "tvg_id": "Eurosport2.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "439"
+  },
+  {
+    "tvg_id": "Extreme.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "253"
+  },
+  {
+    "tvg_id": "FootPlus24.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "100"
+  },
+  {
+    "tvg_id": "France24.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "529"
+  },
+  {
+    "tvg_id": "France3Alpes.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1921"
+  },
+  {
+    "tvg_id": "France3Alsace.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1922"
+  },
+  {
+    "tvg_id": "France3Aquitaine.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1923"
+  },
+  {
+    "tvg_id": "France3Auvergne.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1924"
+  },
+  {
+    "tvg_id": "France3BasseNormandie.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1925"
+  },
+  {
+    "tvg_id": "France3Bourgogne.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1926"
+  },
+  {
+    "tvg_id": "France3Bretagne.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1927"
+  },
+  {
+    "tvg_id": "France3Centre.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1928"
+  },
+  {
+    "tvg_id": "France3ChampagneArdenne.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1929"
+  },
+  {
+    "tvg_id": "France3Corse.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "308"
+  },
+  {
+    "tvg_id": "France3CotedAzur.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1931"
+  },
+  {
+    "tvg_id": "France3FrancheComte.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1932"
+  },
+  {
+    "tvg_id": "France3HauteNormandie.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1933"
+  },
+  {
+    "tvg_id": "France3Languedoc.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1934"
+  },
+  {
+    "tvg_id": "France3Limousin.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1935"
+  },
+  {
+    "tvg_id": "France3Lorraine.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1936"
+  },
+  {
+    "tvg_id": "France3MidiPyrenees.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1937"
+  },
+  {
+    "tvg_id": "France3NordPasDeCalais.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1938"
+  },
+  {
+    "tvg_id": "FranceFrance3ParisIdF.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1939"
+  },
+  {
+    "tvg_id": "France3PaysDeLaLoire.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1940"
+  },
+  {
+    "tvg_id": "France3Picardie.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1941"
+  },
+  {
+    "tvg_id": "France3PoitouCharentes.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1942"
+  },
+  {
+    "tvg_id": "France3ProvenceAlpes.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1943"
+  },
+  {
+    "tvg_id": "France3RhoneAlpes.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1944"
+  },
+  {
+    "tvg_id": "GameOne.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "87"
+  },
+  {
+    "tvg_id": "Ginx.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "563"
+  },
+  {
+    "tvg_id": "GolfPlus.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1295"
+  },
+  {
+    "tvg_id": "GolfChannel.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1166"
+  },
+  {
+    "tvg_id": "GongMax.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "621"
+  },
+  {
+    "tvg_id": "Guadeloupe1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "329"
+  },
+  {
+    "tvg_id": "Guyane1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "260"
+  },
+  {
+    "tvg_id": "Histoire.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "88"
+  },
+  {
+    "tvg_id": "I24news.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "781"
+  },
+  {
+    "tvg_id": "IDF1",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "701"
+  },
+  {
+    "tvg_id": "InfosportPlus.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "94"
+  },
+  {
+    "tvg_id": "JOne.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1585"
+  },
+  {
+    "tvg_id": "Ketnet",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1280"
+  },
+  {
+    "tvg_id": "KTO.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "110"
+  },
+  {
+    "tvg_id": "KZTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "929"
+  },
+  {
+    "tvg_id": "LaChaîneMeteo.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "124"
+  },
+  {
+    "tvg_id": "LaDeux.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "187"
+  },
+  {
+    "tvg_id": "LaTrois.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "892"
+  },
+  {
+    "tvg_id": "LaUne.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "164"
+  },
+  {
+    "tvg_id": "LMTVSarthe.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "535"
+  },
+  {
+    "tvg_id": "M6Boutique.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "184"
+  },
+  {
+    "tvg_id": "M6Music.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "453"
+  },
+  {
+    "tvg_id": "Mangas.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "6"
+  },
+  {
+    "tvg_id": "Martinique1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "328"
+  },
+  {
+    "tvg_id": "MCE.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "987"
+  },
+  {
+    "tvg_id": "MCM.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "121"
+  },
+  {
+    "tvg_id": "MCMTop.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "343"
+  },
+  {
+    "tvg_id": "Melody.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "265"
+  },
+  {
+    "tvg_id": "Mezzo.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "125"
+  },
+  {
+    "tvg_id": "MezzoLiveHD.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "907"
+  },
+  {
+    "tvg_id": "MirabelleTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1045"
+  },
+  {
+    "tvg_id": "MTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "128"
+  },
+  {
+    "tvg_id": "MTVBase.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "263"
+  },
+  {
+    "tvg_id": "MTVDance.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2014"
+  },
+  {
+    "tvg_id": "MTVHits.uk",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "262"
+  },
+  {
+    "tvg_id": "MTVHits.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2006"
+  },
+  {
+    "tvg_id": "MTVRocks.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "264"
+  },
+  {
+    "tvg_id": "Multisports.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "98"
+  },
+  {
+    "tvg_id": "Multisports1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "101"
+  },
+  {
+    "tvg_id": "Multisports2.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "102"
+  },
+  {
+    "tvg_id": "Multisports3.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "103"
+  },
+  {
+    "tvg_id": "Multisports4.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "104"
+  },
+  {
+    "tvg_id": "Multisports5.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "105"
+  },
+  {
+    "tvg_id": "Multisports6.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "106"
+  },
+  {
+    "tvg_id": "NatGeoWild.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "719"
+  },
+  {
+    "tvg_id": "NationalGeographic.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "243"
+  },
+  {
+    "tvg_id": "NauticalChannel.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "415"
+  },
+  {
+    "tvg_id": "Nickelodeon.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "473"
+  },
+  {
+    "tvg_id": "NickelodeonJunior.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "888"
+  },
+  {
+    "tvg_id": "Nickelodeon4Teen.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1746"
+  },
+  {
+    "tvg_id": "Nolife.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "787"
+  },
+  {
+    "tvg_id": "NollywoodTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1461"
+  },
+  {
+    "tvg_id": "NouvelleCaledonie.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "240"
+  },
+  {
+    "tvg_id": "NRJHits.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "605"
+  },
+  {
+    "tvg_id": "OLTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "463"
+  },
+  {
+    "tvg_id": "OMTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "334"
+  },
+  {
+    "tvg_id": "Onzeo.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "517"
+  },
+  {
+    "tvg_id": "PIWI.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "344"
+  },
+  {
+    "tvg_id": "PlanetePlus.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "147"
+  },
+  {
+    "tvg_id": "PlaneteAction.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "402"
+  },
+  {
+    "tvg_id": "PLANETEJustice.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "662"
+  },
+  {
+    "tvg_id": "PlugRTL.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "377"
+  },
+  {
+    "tvg_id": "Polar.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "289"
+  },
+  {
+    "tvg_id": "Polynesie1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "459"
+  },
+  {
+    "tvg_id": "Reunion1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "245"
+  },
+  {
+    "tvg_id": "RFMTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "241"
+  },
+  {
+    "tvg_id": "RMC.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "546"
+  },
+  {
+    "tvg_id": "RTLTVI.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "168"
+  },
+  {
+    "tvg_id": "RTSDeux.ch",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "183"
+  },
+  {
+    "tvg_id": "RTSUn.ch",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "202"
+  },
+  {
+    "tvg_id": "ScienceEtVieTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "63"
+  },
+  {
+    "tvg_id": "Seasons.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "173"
+  },
+  {
+    "tvg_id": "serieclub.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "49"
+  },
+  {
+    "tvg_id": "RMCSportAccess1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2095"
+  },
+  {
+    "tvg_id": "RMCSportAccess2.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "675"
+  },
+  {
+    "tvg_id": "RMCSportUHD.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2029"
+  },
+  {
+    "tvg_id": "RMCSport4.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1382"
+  },
+  {
+    "tvg_id": "StingrayBrava.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "835"
+  },
+  {
+    "tvg_id": "StingrayDjazz.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1357"
+  },
+  {
+    "tvg_id": "StingrayiConcerts.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "604"
+  },
+  {
+    "tvg_id": "SundanceTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "833"
+  },
+  {
+    "tvg_id": "Syfy.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "479"
+  },
+  {
+    "tvg_id": "Telenantes.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "491"
+  },
+  {
+    "tvg_id": "Telesud.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "449"
+  },
+  {
+    "tvg_id": "TeleToonPlus.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "197"
+  },
+  {
+    "tvg_id": "TeleTOONplus1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "293"
+  },
+  {
+    "tvg_id": "TIJI.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "229"
+  },
+  {
+    "tvg_id": "TeleLyonMetropole.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "116"
+  },
+  {
+    "tvg_id": "Toonami.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2040"
+  },
+  {
+    "tvg_id": "TouteHistoire.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "7"
+  },
+  {
+    "tvg_id": "TraceAfrica.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1179"
+  },
+  {
+    "tvg_id": "TRACESportStars.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1168"
+  },
+  {
+    "tvg_id": "TraceToca.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1948"
+  },
+  {
+    "tvg_id": "TraceTropical.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "753"
+  },
+  {
+    "tvg_id": "TraceUrban.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "325"
+  },
+  {
+    "tvg_id": "Trek.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1776"
+  },
+  {
+    "tvg_id": "TVTours.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "540"
+  },
+  {
+    "tvg_id": "TV5MondeAfrique.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "233"
+  },
+  {
+    "tvg_id": "TV5MondeEurope.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "232"
+  },
+  {
+    "tvg_id": "TV7Bordeaux.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "273"
+  },
+  {
+    "tvg_id": "TVRRennes35Bretagne.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "539"
+  },
+  {
+    "tvg_id": "TVSud.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "492"
+  },
+  {
+    "tvg_id": "UshuaiaTV.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "451"
+  },
+  {
+    "tvg_id": "VH1.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "210"
+  },
+  {
+    "tvg_id": "VH1Classic.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "690"
+  },
+  {
+    "tvg_id": "Vivolta.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "659"
+  },
+  {
+    "tvg_id": "VOOSportWorld1.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "413"
+  },
+  {
+    "tvg_id": "VOOSportWorld2.be",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "414"
+  },
+  {
+    "tvg_id": "Voyage.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "212"
+  },
+  {
+    "tvg_id": "XXL.fr",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "218"
+  },
+  {
+    "tvg_id": "3SAT",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "3"
+  },
+  {
+    "tvg_id": "AlJazeeraEnglish",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "525"
+  },
+  {
+    "tvg_id": "ARD",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "13"
+  },
+  {
+    "tvg_id": "ArteBelgique",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2544"
+  },
+  {
+    "tvg_id": "BabyTV",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "483"
+  },
+  {
+    "tvg_id": "BBC1",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "16"
+  },
+  {
+    "tvg_id": "BBC2",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "17"
+  },
+  {
+    "tvg_id": "BBCEntertainment",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "18"
+  },
+  {
+    "tvg_id": "BBCWorldNews",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "19"
+  },
+  {
+    "tvg_id": "BloombergUKEurope",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "410"
+  },
+  {
+    "tvg_id": "Canal32",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "534"
+  },
+  {
+    "tvg_id": "CBSRealityEMAE1",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "514"
+  },
+  {
+    "tvg_id": "CGTN",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "318"
+  },
+  {
+    "tvg_id": "CineAlacarte",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "523"
+  },
+  {
+    "tvg_id": "CineClub",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "285"
+  },
+  {
+    "tvg_id": "CineFrissonAfrique",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "280"
+  },
+  {
+    "tvg_id": "CNBCEurope",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "51"
+  },
+  {
+    "tvg_id": "CNBCEuropeNatGeo",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "52"
+  },
+  {
+    "tvg_id": "CNN",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "53"
+  },
+  {
+    "tvg_id": "DWEnglish",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "61"
+  },
+  {
+    "tvg_id": "ETB1",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "71"
+  },
+  {
+    "tvg_id": "ETB2",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "72"
+  },
+  {
+    "tvg_id": "FashionTV",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1996"
+  },
+  {
+    "tvg_id": "HustlerTV",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "416"
+  },
+  {
+    "tvg_id": "ManX",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "683"
+  },
+  {
+    "tvg_id": "MCSBientre",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1136"
+  },
+  {
+    "tvg_id": "MCSMaison",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "2021"
+  },
+  {
+    "tvg_id": "MotorsportTV",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "237"
+  },
+  {
+    "tvg_id": "Museum",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1072"
+  },
+  {
+    "tvg_id": "NPO1",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "910"
+  },
+  {
+    "tvg_id": "NPO2",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "911"
+  },
+  {
+    "tvg_id": "NPO3",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "912"
+  },
+  {
+    "tvg_id": "PinkTV",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "406"
+  },
+  {
+    "tvg_id": "PrivateTV",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "558"
+  },
+  {
+    "tvg_id": "Proximus11",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1075"
+  },
+  {
+    "tvg_id": "Q2",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "108"
+  },
+  {
+    "tvg_id": "RaiDue",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "154"
+  },
+  {
+    "tvg_id": "RaiTre",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "155"
+  },
+  {
+    "tvg_id": "RaiUno",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "156"
+  },
+  {
+    "tvg_id": "RealMadridTV",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "478"
+  },
+  {
+    "tvg_id": "RSILA1",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "200"
+  },
+  {
+    "tvg_id": "RSILA2",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "201"
+  },
+  {
+    "tvg_id": "RTLTlvision",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "166"
+  },
+  {
+    "tvg_id": "Sat1",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "172"
+  },
+  {
+    "tvg_id": "SFRSport4",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "1153"
+  },
+  {
+    "tvg_id": "SRF1",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "59"
+  },
+  {
+    "tvg_id": "SRF2",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "174"
+  },
+  {
+    "tvg_id": "Supersport3",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "420"
+  },
+  {
+    "tvg_id": "SWR",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "182"
+  },
+  {
+    "tvg_id": "TVE",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "208"
+  },
+  {
+    "tvg_id": "TVE1",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "206"
+  },
+  {
+    "tvg_id": "TVE2",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "207"
+  },
+  {
+    "tvg_id": "Txingudi",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "507"
+  },
+  {
+    "tvg_id": "Vier",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "214"
+  },
+  {
+    "tvg_id": "Vijf",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "691"
+  },
+  {
+    "tvg_id": "VTM",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "215"
+  },
+  {
+    "tvg_id": "WDR",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "217"
+  },
+  {
+    "tvg_id": "ZDF",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "219"
+  },
+  {
+    "tvg_id": "ZeeCinma",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "527"
+  },
+  {
+    "tvg_id": "ZeeTV",
+    "name": null,
+    "orange_id": null,
+    "telerama_id": "526"
+  }
+]
